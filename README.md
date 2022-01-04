@@ -1,8 +1,8 @@
 ### Olá, Seja Bem Vindo 👋
 
-- 🔭 Atualmente trabalhando em projetos com Stack MERN
-- 🌱 Iniciando em DataScience com Python
-- 👯 Colaborador em Projetos Open Source - BACK-END
+- 🔭 WEB/MOBILE - MERN STACK
+- 🔭 INFRAESTRUTURA - MIKROTIK E ZABBIX
+- 🌱 GESTÃO COM POWER BI E SAP CRYSTAL REPORTS
   
 ## - BACK-END -> JAVA
 
@@ -17,12 +17,10 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Keven-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Keven-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="center" alt="Keven-MDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="center" alt="Keven-EX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="Keven-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Keven-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img align="center" alt="Keven-HK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
 
 
   </div>
